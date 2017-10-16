@@ -1,2 +1,2 @@
 # socket
-One simple chatroom with node.js(socket.io)
+Build a simple chatroom with node.js(socket.io)
